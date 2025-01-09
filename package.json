@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@dimforge/rapier3d": "^0.14.0",
+    "@dimforge/rapier3d-compat": "^0.14.0",
+    "cannon-es": "^0.20.0",
+    "cannon-es-debugger": "^1.0.0",
+    "nuxt": "^3.13.2",
+    "three": "^0.170.0",
+    "troika-three-text": "^0.50.3",
+    "vue": "latest",
+    "vue-router": "latest"
+  }
+}
