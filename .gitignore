@@ -24,3 +24,8 @@ logs
 !.env.example
 
 .vercel
+
+# Etc
+
+composables1
+pages/index1.vue
